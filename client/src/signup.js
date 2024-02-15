@@ -45,7 +45,7 @@ const signup = () => {
                     className='form-control rounded-0'
                     onChange={(e) => setPassword(e.target.value)} />
                 </div>
-                <button type='submit' className='btn btn-success w-100 rounded-0'>
+                <button type="submit" className='btn btn-success w-100 rounded-0'>
                     Register
                 </button>
             </form>
